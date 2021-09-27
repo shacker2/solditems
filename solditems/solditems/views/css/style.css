@@ -1,0 +1,33 @@
+
+#short_description_blockm{
+background: #fafafa;
+border: solid 1px #D0D3D8;
+margin-bottom: 1.5em;
+padding: 0.7em;
+margin-top: 1.5em;
+text-align:center;
+}
+/*
+#sold{
+	background-image:url(../img/icon.png);
+	background-repeat:no-repeat;
+	width:64px;
+	height:61px;
+	text-align:center;
+	padding-top:23px;margin:0 auto;
+	color:#000
+}*/
+#sold span{
+	color:#000
+}
+.soldi{font-size: 39px;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0;
+    /* text-align: center; */
+    padding-left: 0px;}
+.soldi2{font-size:13px; text-align:center}
+.soldp{font-size:15px; margin-bottom:5px; text-align:center}
+.soldtable{margin:0 auto;width:70%;border:none}
+.soldtd{padding:0 5px 0 0; text-align:right; border:none}
+.soldtd2{padding:0; text-align:center;border:none}
